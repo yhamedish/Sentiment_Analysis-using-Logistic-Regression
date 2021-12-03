@@ -1,1 +1,1 @@
-# Sentiment_Analysis using Logistic Regression
+# Sentiment_Analysis using Logistic Regression and Naive Bayes
